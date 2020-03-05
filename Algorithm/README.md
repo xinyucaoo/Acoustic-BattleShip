@@ -4,8 +4,8 @@ This algorithm is designed to solve for the position of the sound source on a re
 
 The design and implementation of the algorithm is described below.
 
-Here is the link for the detailed explanation video.
-[link](https://www.bilibili.com/video/av93537160)
+Here is the [link](https://www.bilibili.com/video/av93537160) for the detailed explanation video.
+
 
 ![sketch](images/sketch.png)
 ![sketch](images/equations.png)
